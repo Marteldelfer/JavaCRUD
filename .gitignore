@@ -1,0 +1,3 @@
+store/public/images/*
+store/src/main/resources/application.properties
+store/target/classes/application.properties
